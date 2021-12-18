@@ -3,7 +3,7 @@
 int main ()
 {
 	
-int y = 5;
+int y = 20;
 	
 	return 0;
 }
